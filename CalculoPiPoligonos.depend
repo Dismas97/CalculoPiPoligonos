@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595394118 source:/home/francisco/Documentos/Proyectos/CalculoPiPoligonos/main.cpp
+	<SFML/Graphics.hpp>
+	<math.h>
+	<string>
+
